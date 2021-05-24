@@ -1,4 +1,4 @@
-# Tryblog
+# Blogger
 
 To start your Phoenix server:
 
